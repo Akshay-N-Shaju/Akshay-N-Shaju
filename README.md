@@ -1,6 +1,6 @@
-### Hi there, I'm ✨ [Akshay] ✨ 👋 
+### Hi there, I'm ✨ Akshay ✨ 👋 
 
-## I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, I build cool software products, and sometimes awesome bugs too! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+## I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, I build cool stuff 😺 and sometimes, awesome bugs too! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 - 👨🏻‍💻 Developer with more than 5 years of experience
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
