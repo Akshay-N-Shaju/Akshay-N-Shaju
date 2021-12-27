@@ -1,6 +1,6 @@
 ### Hi there, I'm Akshay 👋 
 
-## I <write/> clean code 😺 and sometimes, awesome bugs too! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+## I </write> clean code 😺 and sometimes, awesome bugs too! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 - 👨🏻‍💻 Build | Break | Innovate 
 - 💡 I love innovation and new technologies
 - 🥅 2022 Goals: Contribute more to Open Source projects
