@@ -5,7 +5,7 @@
 - 💡 I love innovation and new technologies
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 🚀 One day I will see humans on Mars!
-- 🔥 Engineer by day | Batman by night 🦸
+- 👨🏻‍💻 Engineer by day | Batman by night 🦸
 - ⚡ Fun fact: I can eat two burgers at the same time.
 
 <br />
